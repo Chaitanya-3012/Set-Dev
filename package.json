@@ -1,6 +1,6 @@
 {
   "name": "set-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for developers to get starting commands for setup",
   "main": "index.js",
   "scripts": {
