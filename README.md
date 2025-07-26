@@ -4,15 +4,15 @@
 
 ## Demonstration
 
-<video src="samples/demo_react.mp4" controls autoplay loop width="600">
-  Your browser does not support the video tag.
-</video>
+![Demo: React Setup](samples/demo_react.mp4)
+
+[▶️ Watch demo_react.mp4](samples/demo_react.mp4)
 
 ## Guide
 
-<video src="samples/manual.mp4" controls autoplay loop width="600">
-  Your browser does not support the video tag.
-</video>
+![Manual Guide](samples/manual.mp4)
+
+[▶️ Watch manual.mp4](samples/manual.mp4)
 
 ## Features
 
