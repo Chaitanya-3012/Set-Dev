@@ -4,13 +4,9 @@
 
 ## Demonstration
 
-![Demo: React Setup](samples/demo_react.mp4)
-
 [▶️ Watch demo_react.mp4](samples/demo_react.mp4)
 
 ## Guide
-
-![Manual Guide](samples/manual.mp4)
 
 [▶️ Watch manual.mp4](samples/manual.mp4)
 
