@@ -2,6 +2,18 @@
 
 **set-dev** is a zero-config CLI tool that helps developers generate starter setup commands and JSON scripts for popular frameworks in seconds—no more memorizing or searching boilerplate commands. Speed up your workflow for JavaScript (React, Express, Next.js) stacks, with support for Python backends and data science environments coming soon!
 
+## Demonstration
+
+<video src="samples/demo_react.mp4" controls autoplay loop width="600">
+  Your browser does not support the video tag.
+</video>
+
+## Guide
+
+<video src="samples/manual.mp4" controls autoplay loop width="600">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Instant CLI Usage:** No install needed! Run with `npx` for one-off setups.
